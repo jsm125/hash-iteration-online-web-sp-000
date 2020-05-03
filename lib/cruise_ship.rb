@@ -14,3 +14,5 @@ passengers.each do |suite, name|
   if suite == :suite_a && winner = name
   end
 end
+
+winner
